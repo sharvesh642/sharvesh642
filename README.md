@@ -1,5 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on **Chatbot deployment over Cloud**<br>🌱 I’m currently learning **Linux & DevOps practices and tools.**<br>👯 I’m looking to collaborate on **AI and Cloud Computing Projects**<br>💬 Ask me about **DSA, ML and CloudServices**<br>📄 Know about my experiences https://shorturl.at/hmHJW<br>⚡ Fun fact I've never broken a bone in my life (knock on wood!).
+<h1 align="center">Hi 👋, I'm Sharvesh</h1>
+<h3 align="center">A passionate AI & ML graduate</h3>
+
+## 💫 About Me:<br>
+
+🔭 I’m currently working on:<br>
+**Chatbot deployment over Cloud**
+
+🌱 I’m currently learning:<br>
+**Linux & DevOps practices and tools.**
+
+👯 I’m looking to collaborate on:<br>
+**AI and Cloud Computing Projects**
+
+💬 Ask me about:<br>
+**DSA, ML and CloudServices**
+
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1da2IcQZ46Rm6-Kkkrcis5w8LF8pqaCZl/view?usp=sharing)
+
+⚡ Fun fact:<br>
+**I've never broken a bone in my life (knock on wood!).**
 
 
 ## 🌐 Socials:
